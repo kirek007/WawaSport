@@ -1,0 +1,15 @@
+{
+    "name": "kir.ovh/wawasport",
+    "type": "project",
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Marek Ruszczyk",
+            "email": "kirek007@gmail.com"
+        }
+    ]
+}
